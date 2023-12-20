@@ -2325,7 +2325,6 @@
         },
         {
             "name": "laravel/serializable-closure",
-<<<<<<< HEAD
             "version": "v1.3.2",
             "source": {
                 "type": "git",
@@ -2336,18 +2335,6 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/laravel/serializable-closure/zipball/076fe2cf128bd54b4341cdc6d49b95b34e101e4c",
                 "reference": "076fe2cf128bd54b4341cdc6d49b95b34e101e4c",
-=======
-            "version": "v1.3.3",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/laravel/serializable-closure.git",
-                "reference": "3dbf8a8e914634c48d389c1234552666b3d43754"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/laravel/serializable-closure/zipball/3dbf8a8e914634c48d389c1234552666b3d43754",
-                "reference": "3dbf8a8e914634c48d389c1234552666b3d43754",
->>>>>>> 7355196 (vite composer update)
                 "shasum": ""
             },
             "require": {
@@ -2394,11 +2381,7 @@
                 "issues": "https://github.com/laravel/serializable-closure/issues",
                 "source": "https://github.com/laravel/serializable-closure"
             },
-<<<<<<< HEAD
             "time": "2023-10-17T13:38:16+00:00"
-=======
-            "time": "2023-11-08T14:08:06+00:00"
->>>>>>> 7355196 (vite composer update)
         },
         {
             "name": "laravel/tinker",
@@ -7759,7 +7742,6 @@
         },
         {
             "name": "laravel/pint",
-<<<<<<< HEAD
             "version": "v1.13.4",
             "source": {
                 "type": "git",
@@ -7770,18 +7752,6 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/laravel/pint/zipball/428c1eae1be4d2994c88234ffe3fea6800532e0d",
                 "reference": "428c1eae1be4d2994c88234ffe3fea6800532e0d",
-=======
-            "version": "v1.5.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/laravel/pint.git",
-                "reference": "e0a8cef58b74662f27355be9cdea0e726bbac362"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/laravel/pint/zipball/e0a8cef58b74662f27355be9cdea0e726bbac362",
-                "reference": "e0a8cef58b74662f27355be9cdea0e726bbac362",
->>>>>>> 7355196 (vite composer update)
                 "shasum": ""
             },
             "require": {
@@ -7792,7 +7762,6 @@
                 "php": "^8.0"
             },
             "require-dev": {
-<<<<<<< HEAD
                 "friendsofphp/php-cs-fixer": "^3.34.1",
                 "illuminate/view": "^10.26.2",
                 "laravel-zero/framework": "^10.1.2",
@@ -7800,15 +7769,6 @@
                 "nunomaduro/larastan": "^2.6.4",
                 "nunomaduro/termwind": "^1.15.1",
                 "pestphp/pest": "^2.20.0"
-=======
-                "friendsofphp/php-cs-fixer": "^3.14.4",
-                "illuminate/view": "^9.51.0",
-                "laravel-zero/framework": "^9.2.0",
-                "mockery/mockery": "^1.5.1",
-                "nunomaduro/larastan": "^2.4.0",
-                "nunomaduro/termwind": "^1.15.1",
-                "pestphp/pest": "^1.22.4"
->>>>>>> 7355196 (vite composer update)
             },
             "bin": [
                 "builds/pint"
@@ -7844,7 +7804,6 @@
                 "issues": "https://github.com/laravel/pint/issues",
                 "source": "https://github.com/laravel/pint"
             },
-<<<<<<< HEAD
             "time": "2023-10-24T15:44:13+00:00"
         },
         {
@@ -7859,22 +7818,6 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/laravel/sail/zipball/c60fe037004e272efd0d81f416ed2bfc623d70b4",
                 "reference": "c60fe037004e272efd0d81f416ed2bfc623d70b4",
-=======
-            "time": "2023-02-14T16:31:02+00:00"
-        },
-        {
-            "name": "laravel/sail",
-            "version": "v1.26.3",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/laravel/sail.git",
-                "reference": "fa1ad5fbb03686dfc752bfd1861d86091cc1c32d"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/laravel/sail/zipball/fa1ad5fbb03686dfc752bfd1861d86091cc1c32d",
-                "reference": "fa1ad5fbb03686dfc752bfd1861d86091cc1c32d",
->>>>>>> 7355196 (vite composer update)
                 "shasum": ""
             },
             "require": {
@@ -7926,11 +7869,7 @@
                 "issues": "https://github.com/laravel/sail/issues",
                 "source": "https://github.com/laravel/sail"
             },
-<<<<<<< HEAD
             "time": "2023-10-18T13:57:15+00:00"
-=======
-            "time": "2023-12-02T18:26:39+00:00"
->>>>>>> 7355196 (vite composer update)
         },
         {
             "name": "mockery/mockery",
